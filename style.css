@@ -1,0 +1,215 @@
+body {
+  background-color: #181A20 !important;
+}
+
+.navy ul li a {
+  color: white !important;
+}
+
+.dropdown-item {
+  color: #fff !important;
+
+}
+
+.dropdown-menu {
+  background-color: #2B3139 !important;
+}
+
+.dropdown-item:hover {
+  background-color: rgb(95, 93, 93) !important;
+}
+
+.dropdown-item p {
+  font-size: 12px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn-register {
+  background-color: #f0b90bFF !important;
+  border: none;
+
+  color: black !important;
+}
+
+.hero {
+  color: #fff !important;
+}
+
+.btn-login {
+  background-color: #f0b90bFF !important;
+  border: none;
+  color: black !important;
+  height: 40px;
+
+}
+
+.sec-2 {
+  background-color: grey !important;
+  height: 2px;
+  width: 400px;
+  margin-top: 30px;
+}
+
+.btn-GA {
+  background-color: #5C9BC8 !important;
+  border: none;
+  font-weight: 500;
+  height: 40px;
+}
+
+.aspects {
+  color: #fff !important;
+  font-size: 15px;
+  text-align: justify;
+}
+
+.con-1 {
+  background-color: #0B0E11 !important;
+
+}
+
+.trade-btc {
+  color: #fff !important;
+}
+
+.btn-learnmore {
+  color: black !important;
+  background-color: rgb(221, 224, 44) !important;
+  border: none;
+  height: 40px;
+  width: 200px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.market {
+  color: #fff !important;
+}
+
+.popular h6 {
+  margin-left: 500px;
+  font-weight: lighter;
+}
+
+.table-details {
+  color: #fff !important;
+}
+
+.table-details thead tr th {
+  border: none !important;
+  margin: auto !important;
+}
+
+.btn-started {
+  color: black !important;
+  background-color: rgb(221, 224, 44) !important;
+  border: none;
+  height: 40px;
+  width: 200px;
+  text-align: center;
+
+}
+
+.crypto-portfolio {
+  color: #fff !important;
+}
+
+.mobile-image {
+  float: right !important;
+}
+
+.portfolio-text {
+  margin-left: 25px !important;
+}
+
+.cards-section {
+  color: #fff !important;
+}
+
+.card-x {
+  background-color: #0B0E11 !important;
+  border: none !important;
+  border-radius: 20px !important;
+  width: 100%;
+  height: 100%;
+}
+
+.cards-details h3 {
+  margin-top: 60px !important;
+}
+
+.trade-anytime {
+  color: #fff !important;
+}
+
+.sec-1 p {
+  margin-left: 270px;
+
+}
+
+.qr-sec {
+  background-color: black !important;
+
+  align-items: center !important;
+  border-radius: 20px;
+}
+
+.qr-sec-details {
+  margin-left: 25px;
+}
+
+.appy {
+  filter: brightness(0) invert(1);
+
+
+}
+
+.trusted{
+  color: #fff !important;
+}
+
+.hee p{
+  margin-left: 500px;
+}
+
+.safuu-details{
+  margin-left: 50px;
+}
+
+.need-help{
+  color: #fff !important;
+}
+
+.pp1-details p{
+font-size: 12px ;
+padding: 0%;
+}
+
+.pp1-details{
+  margin-left: 35px;
+}
+
+.pp1p{
+  color: yellow ;
+}
+
+.sec-10{
+  color: #fff !important;
+  background-color: #0B0E11 !important;
+}
+
+.btn-signup{
+  margin-top: 50px;
+  background-color: rgb(204, 204, 51) !important;
+  color: #0B0E11 !important;
+  border-radius: 10px;
+  border: none !important ;
+}
+ .ender{
+  color: #fff !important;
+ }
+
+ .paragraph p{
+  font-size: 12px;
+  
+ }
